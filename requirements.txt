@@ -1,0 +1,6 @@
+# requirements.txt
+
+flask
+requests
+google-generativeai
+vercel-kv
